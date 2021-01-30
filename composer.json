@@ -1,0 +1,17 @@
+{
+    "name": "awesum/subscriptions",
+    "description": "A PHP library to handle subscriptions",
+    "keywords": ["subscription","payment","recurring"],
+    "minimum-stability": "stable",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "authors": [
+        {
+            "name": "Wim Wisselink",
+            "email": "wim@powerassist.nl",
+            "homepage": "https://www.awesum.nl",
+            "role": "Developer/CTO"
+        }
+    ],
+    "require": {
+    }
+}
