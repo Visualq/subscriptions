@@ -3,7 +3,7 @@
     "description": "A PHP library to handle subscriptions",
     "keywords": ["subscription","payment","recurring"],
     "minimum-stability": "stable",
-    "license": "GNU GENERAL PUBLIC LICENSE",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Wim Wisselink",
